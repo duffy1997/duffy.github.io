@@ -8,6 +8,8 @@
 ############################
 # --- Required options --- #
 ############################
+# solve page404
+baseurl: ""
 
 # Name of website
 title: My personal Website
